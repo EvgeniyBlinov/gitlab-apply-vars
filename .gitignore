@@ -1,0 +1,4 @@
+.python/
+build
+dist
+gitlab_apply_vars.egg-info

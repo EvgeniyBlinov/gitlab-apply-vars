@@ -1,0 +1,5 @@
+python-gitlab
+PyYAML
+jinja2
+jinja2_base64_filters
+xmlplain
